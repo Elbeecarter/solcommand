@@ -8,7 +8,7 @@ into a single unified platform. It combines market intelligence,
 yield management, MEV-protected trading, strategy automation, 
 and onchain reputation into one military-grade terminal interface.
 
-**Live App:** [coming soon]  
+Live App:http://stellular-cobbler-f13f07.netlify.app 
 **Demo Video:** [coming soon]  
 **Built with:** Eitherway · Birdeye · Quicknode · Kamino · DFlow · Solflare
 
