@@ -8,7 +8,7 @@ into a single unified platform. It combines market intelligence,
 yield management, MEV-protected trading, strategy automation, 
 and onchain reputation into one military-grade terminal interface.
 
-Live App:https://solcommand.netlify.app/
+**Live App:** https://solcommand-app.netlify.app
 **Demo Video:** [coming soon]  
 **Built with:** Eitherway · Birdeye · Quicknode · Kamino · DFlow · Solflare
 
